@@ -1,31 +1,14 @@
 {
-    "arrayColores":[{
-            "nombreColor":"rojo",
-            "valorHexadec":"#f00"
-        },
-        {
-            "nombreColor":"verde",
-            "valorHexadec":"#0f0"
-        },
-        {
-            "nombreColor":"azul",
-            "valorHexadec":"#00f"
-        },
-        {
-            "nombreColor":"cyan",
-            "valorHexadec":"#0ff"
-        },
-        {
-            "nombreColor":"magenta",
-            "valorHexadec":"#f0f"
-        },
-        {
-            "nombreColor":"amarillo",
-            "valorHexadec":"#ff0"
-        },
-        {
-            "nombreColor":"negro",
-            "valorHexadec":"#000"
-        }
-    ]
+    "page":1,
+    "per_page":6,
+    "total":12,
+    "total_pages":2,
+    "data":[
+        {"id":1,"nombreColor":"pito cosmico","valorHexadec":"George"},
+        {"id":2,"nombreColor":"pito universal","valorHexadec":"Janet"},
+        {"id":3,"nombreColor":"emma.wong@reqres.in","valorHexadec":"Emma"},
+        {"id":4,"nombreColor":"eve.holt@reqres.in","valorHexadec":"Eve"},
+        {"id":5,"nombreColor":"charles.morris@reqres.in","valorHexadec":"Charles"},
+        {"id":6,"nombreColor":"tracey.ramos@reqres.in","valorHexadec":"Tracey"}
+     ]
 }
